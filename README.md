@@ -10,7 +10,7 @@
 
 The **Customer Insights Dashboard** project focuses on analyzing customer shopping behavior using **Python**, **SQL**, and **Power BI** to derive actionable business insights. The project demonstrates end-to-end data handling: raw data ingestion, data cleaning, exploratory data analysis, SQL-based analysis, and interactive dashboard visualization.
 
-This repository is designed to showcase practical skills in **data analysis**, **business intelligence**, and **data-driven decision-making**, making it suitable for recruiters, hiring managers, and ATS (Applicant Tracking Systems).
+This repository is designed to showcase practical skills in **data analysis**, **business intelligence**, and **data-driven decision-making**.
 
 ---
 
