@@ -25,10 +25,11 @@ This repository is designed to showcase practical skills in **data analysis**, *
 ---
 
 ## Dataset
+- Source: Kaggle – Customer Shopping Trends Dataset  
+- Link: https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset
 
-* **Source:** Kaggle (Customer Shopping Behavior dataset)
-* **File:** `customer_shopping_behavior_kaggle.csv`
-
+---
+  
 ### Key Attributes
 
 * Customer ID
@@ -113,8 +114,6 @@ Customer-Insights-Dashboard/
 * High-value customer identification
 * Purchase frequency analysis
 
-(SQL queries are available in `customer_behavior_sql_queries.sql`)
-
 ### 4. Power BI Dashboard
 
 * Interactive slicers for gender, age group, and category
@@ -158,14 +157,6 @@ Customer-Insights-Dashboard/
 * Sales and marketing strategy planning
 * Business performance reporting
 * Portfolio project for Data Analyst / Business Analyst roles
-
----
-
-## Author
-
-**Ingale Yash Satish**
-Aspiring Data Analyst
-Skills: Python, SQL, Power BI, Data Analysis, Data Visualization
 
 ---
 
