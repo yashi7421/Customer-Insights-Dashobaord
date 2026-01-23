@@ -10,7 +10,7 @@
 
 The **Customer Insights Dashboard** project focuses on analyzing customer shopping behavior using **Python**, **SQL**, and **Power BI** to derive actionable business insights. The project demonstrates end-to-end data handling: raw data ingestion, data cleaning, exploratory data analysis, SQL-based analysis, and interactive dashboard visualization.
 
-This repository is designed to showcase practical skills in **data analysis**, **business intelligence**, and **data-driven decision-making**.
+This repository is designed to showcase practical skills in **data analysis**, **business intelligence**, and **data-driven decision-making**, making it suitable for recruiters, hiring managers, and ATS (Applicant Tracking Systems).
 
 ---
 
@@ -40,6 +40,29 @@ This repository is designed to showcase practical skills in **data analysis**, *
 * Review Rating
 * Payment Method
 * Shopping Frequency
+
+---
+
+## Dataset Glossary (Column-wise)
+
+* **Customer ID** – Unique identifier for each customer
+* **Age** – Age of the customer
+* **Gender** – Gender of the customer (Male/Female)
+* **Item Purchased** – The item purchased by the customer
+* **Category** – Category of the item purchased
+* **Purchase Amount (USD)** – Purchase amount in USD
+* **Location** – Location where the purchase was made
+* **Size** – Size of the purchased item
+* **Color** – Color of the purchased item
+* **Season** – Season during which the purchase was made
+* **Review Rating** – Rating given by the customer
+* **Subscription Status** – Indicates whether the customer has an active subscription (Yes/No)
+* **Shipping Type** – Type of shipping selected by the customer
+* **Discount Applied** – Indicates whether a discount was applied (Yes/No)
+* **Promo Code Used** – Indicates whether a promo code was used (Yes/No)
+* **Previous Purchases** – Total number of previous completed purchases by the customer
+* **Payment Method** – Customer’s preferred payment method
+* **Frequency of Purchases** – How often the customer makes purchases (Weekly, Fortnightly, Monthly)
 
 ---
 
